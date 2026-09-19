@@ -2,7 +2,7 @@
 
 An end-to-end machine learning system that detects fraudulent transactions in real time, built on a highly imbalanced dataset of 284,807 real transactions. Includes a live prediction app and a Power BI analytics dashboard.
 
-**[🔗 Live Demo](your-streamlit-url-here)** | **[📊 Dashboard Screenshots](#dashboard)**
+**[🔗 Live Demo](https://credit-card-fraud-detection-100.streamlit.app/)** | **[📊 Dashboard Screenshots](#dashboard)**
 
 ![Dashboard Overview](reports/figures/dashboard_overview.png)
 
