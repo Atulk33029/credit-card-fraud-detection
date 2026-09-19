@@ -1,0 +1,18 @@
+{
+  "logreg": {
+    "pr_auc": 0.7750539381776146,
+    "roc_auc": 0.9714375796745259
+  },
+  "random_forest": {
+    "pr_auc": 0.7989696911371583,
+    "roc_auc": 0.9774180141949858
+  },
+  "xgboost": {
+    "pr_auc": 0.8562821091546272,
+    "roc_auc": 0.9835075525708314
+  },
+  "best_model": "xgboost",
+  "chosen_threshold": 0.8492295742034912,
+  "final_precision": 0.85,
+  "final_recall": 0.84
+}
